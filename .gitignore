@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+audio/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+bot.log
